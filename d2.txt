@@ -1,0 +1,9 @@
+total 144
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:19 ./
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:19 ../
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:19 bin/
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:18 etc/
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:18 lib/
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:18 libexec/
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:18 share/
+drwxr-xr-x 1 lenovo 197121 0 Aug 22 14:19 ssl/

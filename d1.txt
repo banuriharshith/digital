@@ -1,0 +1,12 @@
+total 492
+drwxr-xr-x 1 lenovo 197121      0 Aug 22 14:19 ./
+drwxr-xr-x 1 lenovo 197121      0 Aug 22 14:19 ../
+-rwxr-xr-x 1 lenovo 197121 136200 Aug 21 19:15 git-gui.exe*
+-rwxr-xr-x 2 lenovo 197121  45048 Aug 21 19:15 git-lfs.exe*
+-rwxr-xr-x 1 lenovo 197121  33436 Aug 21 19:15 git-receive-pack.exe*
+-rwxr-xr-x 1 lenovo 197121  33436 Aug 21 19:15 git-upload-pack.exe*
+-rwxr-xr-x 2 lenovo 197121  45048 Aug 21 19:15 git.exe*
+-rwxr-xr-x 1 lenovo 197121 136200 Aug 21 19:15 gitk.exe*
+-rwxr-xr-x 1 lenovo 197121  45048 Aug 21 19:15 scalar.exe*
+-rw-r--r-- 1 lenovo 197121   3022 Aug 21 19:15 start-ssh-agent.cmd
+-rw-r--r-- 1 lenovo 197121   2723 Aug 21 19:15 start-ssh-pageant.cmd
